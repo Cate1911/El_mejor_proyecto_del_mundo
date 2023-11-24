@@ -1,2 +1,6 @@
 # El_mejor_proyecto_del_mundo
-Holaaa, bienvenido al repositorio del mejor proyecto del mundo. En este repositorio, quisimos darle solución a una de las problemáticas más grandes para cualquier persona que trabaja en el laboratorio y son los cálculos. Creamos un algoritmo que pudiera hallar magnitudes como la molaridad, el volumen, la densidad. entre otros.
+Holaaa, bienvenido al repositorio del mejor proyecto del mundo. En este repositorio, quisimos darle solución a una de las problemáticas más grandes para cualquier persona que trabaja en el laboratorio y son los cálculos. Creamos un algoritmo que pudiera hallar magnitudes como la molaridad, el volumen, la densidad. entre otros, así como las incertidumbres de estas medidas. Asimismo, este algoritmo también le permite al usuario la conversión de unidades para facilitar el manejo de las magnitudes en el laboratorio. Como extra, para facilitar el cálculo de la concentración de un analito en una titulación redox, así como...
+Este repositorio se divide en tres partes: en la primera parte se explica la parte del programa que calcula las magnitudes, en la segunda parte se explica el apartado de las conversiones de unidades y em la última parte se explica cómo se desarrollaron una serie de gráficas para hallar la concentración de un analito, ...
+## Cálculo de medidas experimentales
+## Conversión de unidades
+### Gráficos
