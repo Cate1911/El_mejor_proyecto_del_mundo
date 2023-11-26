@@ -42,7 +42,7 @@ Partiendo de lo anterior, se desarrolló una función que le permite al usuario 
   ![Tukey](https://github.com/Cate1911/El_mejor_proyecto_del_mundo/assets/141857246/03d6614b-5001-439b-a9e2-64baa411e5b5)
 A continuación, se presenta un ejemplo de la aplicación de esta función del programa:
   
-  ![image](https://github.com/Cate1911/El_mejor_proyecto_del_mundo/assets/141857246/d3e48f59-a319-4fb5-8994-738a29ee9331)
+![image](https://github.com/Cate1911/El_mejor_proyecto_del_mundo/assets/141857246/a1a6e878-ad37-4d29-8e68-a83a7728b049)
 
   Como se puede ver, el programa muestra tanto los datos atípicos, así como el gráfico que representa los valores que están dentro del rango explicado anteriormente.
 
@@ -75,7 +75,8 @@ El programa funciona de la siguiente manera:
 ### Cálculo de la presición y la exactitud de una serie de datos de una muestra
   La precisión y la exactitud son esenciales para garantizar la confiabilidad de los datos y las mediciones en una variedad de campos, desde la investigación científica hasta la producción industrial y el sector médico. Ayudan a asegurar que las decisiones y los resultados  sean datos confiables. Es por eso, que se hace imperativa la evaluación de las medidas de una muestra, lo cual, se realizó en el siguiente código:
   
-  ![exactitud_y_precision](https://github.com/Cate1911/El_mejor_proyecto_del_mundo/assets/141857246/6dd22f05-35b5-4b57-9bca-7bb5f85a9641)
+![exactitud_y_precision](https://github.com/Cate1911/El_mejor_proyecto_del_mundo/assets/141857246/b5ea389c-26d5-4f49-8e6f-4c273d7ec704)
+
 **_Explicación más detallada:_**
   + Utilizamos el import numpy as np para importar la biblioteca NumPy con el alias np, que se utiliza para cálculos numéricos más eficientes en cuanto a cuestiones de tiempo y líneas de código.
   + def calcular_precision(datos_muestra_1): Define una función llamada calcular_precision que toma una muestra de datos como argumento y calcula la desviación estándar de esos datos utilizando NumPy.
