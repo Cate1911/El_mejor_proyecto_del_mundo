@@ -1,7 +1,18 @@
 # El_mejor_proyecto_del_mundo
 Holaaa, bienvenido al repositorio del mejor proyecto del mundo. En este repositorio, quisimos darle solución a una de las problemáticas más grandes para cualquier persona que trabaja en el laboratorio y son los cálculos. Creamos un algoritmo que pudiera hallar magnitudes como la molaridad, el volumen, la densidad. entre otros, así como las incertidumbres de estas medidas. Asimismo, este algoritmo también le permite al usuario la conversión de unidades para facilitar el manejo de las magnitudes en el laboratorio. Como extra, pusimos una función para el tratamiento de datos, para el cálculo de la masa molar de un compuesto y también para el cálculo de la exactitud y la presición de una serie de datos.
 Este repositorio se divide en tres partes: en la primera parte se explica la parte del programa que calcula las magnitudes, en la segunda parte se explica el apartado de las conversiones de unidades y em la última parte se muestra cómo se realizó el programa para el tratamiento de datos y el cálculo de la presición y la exactitud de datos de laboratorio. 
+## Funcionamiento del código
+
+![image](https://github.com/Cate1911/El_mejor_proyecto_del_mundo/assets/142174506/812d2570-f2df-4232-adab-851ce6e268c0)
+
+
+
+![image](https://github.com/Cate1911/El_mejor_proyecto_del_mundo/assets/142174506/d9d5b311-37ab-45d6-ba0e-13d4239fd182)
+
+
+
 ## Cálculo de medidas experimentales
+
 Para esta parte del programa, quisimos brindar una herramienta para que el usuario pudiera calcular las medidas más utilizadas en el laboratorio con su respectiva incertidumbre. Las medidas que se pueden calcular en este programa son:
 + Densidad relativa.
 + Densidad de una sustancia (m/v).
