@@ -35,6 +35,16 @@ Este apartado se puede ver más a fondo en el archivo llamado "calculos.ipynb". 
 
 ## Conversión de unidades
 La conversión de unidades es el proceso de cambiar la medida de una cantidad de una unidad a otra. en nuestro proyecto fueron inculidas con el fin de que el usuario no tenga que hacer todo esto a mano ni mentalemnte. Y obvio pa´alargar el codigo  :V 
+
+las mas utilizadas en nuestro proyecto fueron inculidas, a demas de unas cuantas las cuales no son facil de calcular para algunos usuarios.
+ +  Moles a gramos y Gramos a moles
+ +  Litros a mililitros y Mililitros a litros
+ +  Litros a metros cúbicos y Metros cúbicos a mililitros
+ +  Gramo a Kilogramo y Kilogramo a gramo
+ +  Gramo a libras y Kilogramos a libras
+ +  Atm a mmHg y  mmHg a Atm
+ +  Conversiones de temperatura (Kelvin, Celsius y Fahrenheit)
+   
 ## Tratamiento de datos 
 ### Tratamiento de datos por el método Tukey
 El método Tukey, o diagrama de caja y bigotes, identifica valores atípicos en un conjunto de datos mediante el cálculo del rango intercuartílico (IQR). Los valores atípicos son aquellos que están fuera del rango Q1-1.5*IQR y Q3+1.5×IQR. Este método proporciona una representación visual de la distribución de los datos, así como también permite el descarte de datos para que no sean tomados en cuenta al momento de calcular exactitudes o presiciones de una muestra.
