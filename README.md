@@ -34,6 +34,7 @@ Este apartado se puede ver más a fondo en el archivo llamado "calculos.ipynb". 
 ![image](https://github.com/Cate1911/El_mejor_proyecto_del_mundo/assets/141857246/b1a1f053-c46f-4e3b-aedb-0462aa1870fc)
 
 ## Conversión de unidades
+La conversión de unidades es el proceso de cambiar la medida de una cantidad de una unidad a otra. en nuestro proyecto fueron inculidas con el fin de que el usuario no tenga que hacer todo esto a mano ni mentalemnte. Y obvio pa´alargar el codigo  :V 
 ## Tratamiento de datos 
 ### Tratamiento de datos por el método Tukey
 El método Tukey, o diagrama de caja y bigotes, identifica valores atípicos en un conjunto de datos mediante el cálculo del rango intercuartílico (IQR). Los valores atípicos son aquellos que están fuera del rango Q1-1.5*IQR y Q3+1.5×IQR. Este método proporciona una representación visual de la distribución de los datos, así como también permite el descarte de datos para que no sean tomados en cuenta al momento de calcular exactitudes o presiciones de una muestra.
